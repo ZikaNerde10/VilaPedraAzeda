@@ -58,6 +58,7 @@
     {"id":{"name":"spr_pantano","path":"sprites/spr_pantano/spr_pantano.yy",},},
     {"id":{"name":"spr_pedra_azeda","path":"sprites/spr_pedra_azeda/spr_pedra_azeda.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_vendedor","path":"sprites/spr_vendedor/spr_vendedor.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
   ],
   "resourceType":"GMProject",
