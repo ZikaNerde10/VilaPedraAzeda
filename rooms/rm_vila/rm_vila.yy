@@ -20,6 +20,7 @@
     {"name":"inst_19F5FCD5","path":"rooms/rm_vila/rm_vila.yy",},
     {"name":"inst_4C7213B9","path":"rooms/rm_vila/rm_vila.yy",},
     {"name":"inst_4762D061","path":"rooms/rm_vila/rm_vila.yy",},
+    {"name":"inst_3F7F71E8","path":"rooms/rm_vila/rm_vila.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -37,6 +38,7 @@
         {"$GMRInstance":"v4","%Name":"inst_37CA0E82","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_37CA0E82","objectId":{"name":"obj_casas","path":"objects/obj_casas/obj_casas.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":96.0,},
         {"$GMRInstance":"v4","%Name":"inst_3245180F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3245180F","objectId":{"name":"obj_pedra_azeda","path":"objects/obj_pedra_azeda/obj_pedra_azeda.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":683.0,"y":384.0,},
         {"$GMRInstance":"v4","%Name":"inst_4115CB58","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4115CB58","objectId":{"name":"obj_porta","path":"objects/obj_porta/obj_porta.yy",},"previewSprite":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3F7F71E8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3F7F71E8","objectId":{"name":"obj_loja","path":"objects/obj_loja/obj_loja.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":864.0,"y":576.0,},
       ],"layers":[],"name":"Casas","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Decoracao","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_2C67FAA6","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2C67FAA6","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_ferreiro","path":"sprites/spr_ferreiro/spr_ferreiro.yy",},"x":384.0,"y":672.0,},

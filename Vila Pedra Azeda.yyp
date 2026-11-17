@@ -40,6 +40,7 @@
     {"id":{"name":"obj_colissao","path":"objects/obj_colissao/obj_colissao.yy",},},
     {"id":{"name":"obj_goblins","path":"objects/obj_goblins/obj_goblins.yy",},},
     {"id":{"name":"obj_info","path":"objects/obj_info/obj_info.yy",},},
+    {"id":{"name":"obj_loja","path":"objects/obj_loja/obj_loja.yy",},},
     {"id":{"name":"obj_moeda","path":"objects/obj_moeda/obj_moeda.yy",},},
     {"id":{"name":"obj_pedra_azeda","path":"objects/obj_pedra_azeda/obj_pedra_azeda.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
