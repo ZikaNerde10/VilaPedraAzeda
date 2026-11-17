@@ -59,6 +59,14 @@ if(estado == "ATTACK")
 		if(tempo_ataque <= 0)
 		{
 			show_debug_message("toma essa!")
+			if(!obj_player.invulneravel)
+			{
+				global.vidaplayer -= dano;
+				obj_player.invulneravel = true;
+				obj_player.tempo_invulneravel = 60;
+				
+				show_debug_message("Ai! essa doeu.")
+			}
 			
 			tempo_ataque = 60;
 		}
